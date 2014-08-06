@@ -16,7 +16,7 @@ PDOBJECTS = oscbonjour.pd
 EXAMPLES = oscbonjour-example.pd
 
 # manuals and related files, in the 'manual' subfolder
-MANUAL = old_readme.txt
+MANUAL = README.txt
 
 # if you want to include any other files in the source and binary tarballs,
 # list them here.  This can be anything from header files, test patches,
